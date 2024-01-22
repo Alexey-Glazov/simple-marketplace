@@ -1,0 +1,12 @@
+.catalog {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.goods {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 30px;
+  grid-row-gap: 30px;
+}

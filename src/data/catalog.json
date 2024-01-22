@@ -1,0 +1,58 @@
+[
+  {
+    "id": "01",
+    "brand": "Sony Ericsson",
+    "name": "Sony Ericsson K750i",
+    "description": "Легенда, просто легенда",
+    "photoUrl": "https://raritymobile.ru/wp-content/uploads/2019/12/k750i.png",
+    "price": "8000"
+  },
+  {
+    "id": "02",
+    "brand": "Sony Ericsson",
+    "name": "Sony Ericsson c510i",
+    "description": "У меня такой был",
+    "photoUrl": "https://img.mvideo.ru/Pdb/30010719b.jpg",
+    "price": "10000"
+  },
+  {
+    "id": "03",
+    "brand": "Samsung",
+    "name": "Samsung galaxy ace",
+    "description": "топ за свои деньги в 2011",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Samsung_Galaxy_Ace.jpg",
+    "price": "12000"
+  },
+  {
+    "id": "04",
+    "brand": "Apple",
+    "name": "Apple Iphone 3g",
+    "description": "первый в своем роде",
+    "photoUrl": "https://img.mvideo.ru/Pdb/30005317b.jpg",
+    "price": "30000"
+  },
+  {
+    "id": "05",
+    "brand": "Sony Ericsson",
+    "name": "Sony Ericsson  W810i",
+    "description": "отличный карманный плеер с возможностью позвонить",
+    "photoUrl": "https://elesot.ru/wa-data/public/shop/products/95/01/195/images/195/195.970.jpg",
+    "price": "8000"
+  },
+  {
+    "id": "06",
+    "brand": "Nokia",
+    "name": "Nokia 3310",
+    "description": "им можно убить",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Nokia_3310_Blue_R7309170_%28retouch%29.png",
+    "price": "2000"
+  },
+  {
+    "id": "07",
+    "brand": "Siemens",
+    "name": "Siemens M65",
+    "description": "телефон мажоров до айфоновой эпохи",
+    "photoUrl": "https://irecommend.ru/sites/default/files/product-images/12291/siemens-m65-l.jpg",
+    "price": "14000"
+  }
+]

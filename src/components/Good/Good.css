@@ -1,0 +1,14 @@
+.good {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  max-width: 300px;
+  max-height: 500px;
+}
+
+.good-photo {
+  display: flex;
+  max-width: 100%;
+  height: 300px;
+  object-fit: contain;
+}
